@@ -1,5 +1,5 @@
 {
-    "name": "Robot teleommande",
+    "name": "Robot telecommande",
     "description": "",
     "dependencies": {
         "core": "*",
